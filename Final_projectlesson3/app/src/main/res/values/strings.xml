@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Final_projectlesson3</string>
+    <string name="question">Question</string>
+    <string name="who_is_the_best_player_in_the_word">Who is the best player in the world?</string>
+    <string name="score">SCORE:</string>
+    <string name="question2">Questions</string>
+    <string name="cual_es_la_capital_de_espana">Witch is the capital of Spain?</string>
+    <string name="notify_me">MADRID.</string>
+    <string name="notify_me1">BARCELONA.</string>
+    <string name="notify_me2">POGBA.</string>
+    <string name="score1">SCORE:</string>
+    <string name="name">Name</string>
+    <string name="question3">Question</string>
+    <string name="_1">one</string>
+    <string name="_2">two</string>
+    <string name="_3">three</string>
+    <string name="cual_es_la_capital_de_guinea">Witch is the capital of Guinea?</string>
+    <string name="notify_me3">CONAKRY.</string>
+    <string name="notify_me33">GHANA.</string>
+    <string name="notify_me22">NIGERIA.</string>
+    <string name="score3">SCORE:</string>
+    <string name="_11"> One</string>
+    <string name="_22">Two</string>
+    <string name="_33">Three</string>
+    <string name="_111">One</string>
+    <string name="_222">Two</string>
+    <string name="_333">Three</string>
+    <string name="notify_me11">MESSI.</string>
+    <string name="notify_me222">C.RONALDO.</string>
+    <string name="notify_me333">POGBA.</string>
+    <string name ="congratulation">Congratulation you nailed it!</string>
+    <string name ="m_choose">You must choose one option!</string>
+    <string name="name1">Name</string>
+    <string name ="try_again">Error!Try again!!</string>
+</resources>
